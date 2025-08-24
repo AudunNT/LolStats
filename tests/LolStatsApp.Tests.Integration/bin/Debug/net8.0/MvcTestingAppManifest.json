@@ -1,0 +1,5 @@
+{
+  "LolStatsApp.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Fritid\\Prosjekter\\lolStats\\LolStatsApp\\src\\LolStatsApp.Api",
+  "LolStatsApp.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Fritid\\Prosjekter\\lolStats\\LolStatsApp\\src\\LolStatsApp.Core",
+  "LolStatsApp.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Fritid\\Prosjekter\\lolStats\\LolStatsApp\\src\\LolStatsApp.Infrastructure"
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ljas7KKvlLkoLAQnqipyYH0jq2+QkeH+ELnQVtklHTY=",
+  "Source": "LolStatsApp.Api",
+  "BasePath": "_content/LolStatsApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

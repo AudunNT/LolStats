@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AFixtureMappingManager_002Ecs_002Fl_003AC_0021_003FUsers_003Faudun_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fdf8144d0172db0ba5a19a39cbb3c819119e51cf9f192ab9cdb6675d7d5e7a9ae_003FFixtureMappingManager_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=946fcf70_002Dc3dd_002D4d00_002Db622_002D46249e868ea6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPlayerStatsAsync_ValidSummonerName_ReturnsOk" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::514EC30B-86CD-4C02-BD97-8582A9382633::net8.0::LolStatsApp.Tests.Integration.StatsController.StatsControllerTests.Create_CreatesUser_WhenDataIsValid&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aff8c6d7_002D839d_002D4402_002Da847_002D816b062de2cc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Create_CreatesUser_WhenDataIsValid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::514EC30B-86CD-4C02-BD97-8582A9382633::net8.0::LolStatsApp.Tests.Integration.StatsController.StatsControllerTests.Create_CreatesUser_WhenDataIsValid&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cb60a010_002De966_002D4ad8_002Dbe96_002D5c393d009f14/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Create_CreatesUser_WhenDataIsValid #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::514EC30B-86CD-4C02-BD97-8582A9382633::net8.0::LolStatsApp.Tests.Integration.StatsController.StatsControllerTests.Create_CreatesUser_WhenDataIsValid&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
