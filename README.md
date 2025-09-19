@@ -10,7 +10,7 @@ flowchart LR
     backend -->|1: Get token| entraid
     backend -->|2: Call API| apigateway
     apigateway -->|3: Verify token| entraid
-    apigateway -->|4: Get HelseID DPoP JWT \n + make request | tokenservice
+    apigateway -->|4: Get HelseID DPoP JWT | tokenservice
     tokenservice -->|5: Get HelseID DPoP JWT| helseId
     tokenservice -->|6: Call Persontjenesten with HelseID DPoP JWT| persontjenesten
     
